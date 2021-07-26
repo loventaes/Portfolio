@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;    
+ }
+ p{
+    color:midnightblue;
+    text-align:center;
+}
+ h1{
+    color: palevioletred;    
+    }
+.redcenter {
+    color:brown;
+    text-align: center; 
+    font-weight: bold;
+    }
+    
+.purpleleft {
+    color:rebeccapurple;
+    text-align: left;
+    font-weight: normal;
+    }
+
+ #uniquecolorfont {
+    color:yellow
+    }
